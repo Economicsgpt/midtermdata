@@ -1,0 +1,4 @@
+[core]
+    remote = onedrive_remote
+['remote "onedrive_remote"']
+    url = /Users/haohuang/Library/CloudStorage/OneDrive-Personal/Savvy edu/202501-06/Catherine+UT+Health and Economic Inequality
